@@ -12,11 +12,7 @@
  
  
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href="https://www.docker.com/"><img alt="Linux" src="https://img.shields.io/badge/Linux-302E2B?style=for-the-badge&logo=linux&logoColor=white"></a>
- 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> 
-<img alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-</a>
+<!-- <a href="https://www.docker.com/"><img alt="Linux" src="https://img.shields.io/badge/Linux-302E2B?style=for-the-badge&logo=linux&logoColor=white"></a> -->
  
 <a href="https://www.javascript.com" target="_blank"> 
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-ED8B00?style=for-the-badge&logo=javascript&logoColor=white">
@@ -30,9 +26,6 @@
 <img alt="TypeScript" src="https://img.shields.io/badge/Typescript-3776AB?style=for-the-badge&logo=typescript&logoColor=white">
 </a>
  
-   <a href="https://threejs.org" target="_blank">
-<img alt="Threejs" src="https://img.shields.io/badge/threejs-F7931E?style=for-the-badge&logo=three&logoColor=white">
-</a>
  
   <a href="https://getbootstrap.com" target="_blank">
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
@@ -57,20 +50,13 @@
 <img alt="Nestjs" src="https://img.shields.io/badge/Nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
 </a>
  
-   <a href="https://cloud.google.com" target="_blank">
-<img alt="Gcloud" src="https://img.shields.io/badge/Gcloud-2C2D72?style=for-the-badge&logo=google&logoColor=white">
-</a>
+
 <a href="https://www.postgresql.org" target="_blank">
 <img alt="Postgresql" src="https://img.shields.io/badge/Postgresql-FF4B4B?style=for-the-badge&logo=postgresql&logoColor=white">
 </a>
  
-  <a href="https://www.jenkins.io" target="_blank">
-<img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-FF4B4B?style=for-the-badge&logo=jenkins&logoColor=white">
-</a>
 <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"></a>
-<a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></a>
-<a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
- 
+
  
 <h2> Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
  
