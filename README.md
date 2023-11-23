@@ -18,10 +18,6 @@
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-ED8B00?style=for-the-badge&logo=javascript&logoColor=white">
 </a>
  
-  <a href="https://www.python.org" target="_blank">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</a>
- 
    <a href="https://www.typescriptlang.org" target="_blank">
 <img alt="TypeScript" src="https://img.shields.io/badge/Typescript-3776AB?style=for-the-badge&logo=typescript&logoColor=white">
 </a>
