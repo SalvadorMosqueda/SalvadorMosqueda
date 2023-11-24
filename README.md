@@ -22,10 +22,9 @@
 <img alt="TypeScript" src="https://img.shields.io/badge/Typescript-3776AB?style=for-the-badge&logo=typescript&logoColor=white">
 </a>
  
- 
-  <a href="https://tailwindcss.com" target="_blank">
+   <a href="https://tailwindcss.com" target="_blank">
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</a>
+   </a>
  
    <a href="https://react.dev" target="_blank">
 <img alt="React" src="https://img.shields.io/badge/react-087EA4?style=for-the-badge&logo=react&logoColor=white">
