@@ -28,8 +28,9 @@
  
    <a href="https://react.dev" target="_blank">
 <img alt="React" src="https://img.shields.io/badge/react-087EA4?style=for-the-badge&logo=react&logoColor=white">
-
-</a>   <a href="https://react.dev" target="_blank">
+   </a>
+   
+<a href="https://https://reactnative.dev" target="_blank">
 <img alt="React" src="https://img.shields.io/badge/React_Native-61dafb?style=for-the-badge&logo=react&logoColor=white">
 </a>
 
@@ -50,7 +51,6 @@
 <img alt="Postgresql" src="https://img.shields.io/badge/Postgresql-FF4B4B?style=for-the-badge&logo=postgresql&logoColor=white">
 </a>
  
-<a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"></a>
 
  
 <h2> Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
