@@ -29,7 +29,11 @@
  
    <a href="https://react.dev" target="_blank">
 <img alt="React" src="https://img.shields.io/badge/react-087EA4?style=for-the-badge&logo=react&logoColor=white">
-</a>
+
+</a>   <a href="https://react.dev" target="_blank">
+<img alt="React" src="https://img.shields.io/badge/react-087EA4?style=for-the-badge&logo=react&logoColor=white">
+</a>(https://img.shields.io/badge/React_Native-61dafb?style=for-the-badge&logo=react&logoColor=white)
+
 <a href="https://nextjs.org" target="_blank">
 <img alt="NextJs" src="https://img.shields.io/badge/Nextjs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
 </a>
